@@ -1,7 +1,2 @@
-
-![](https://raw.githubusercontent.com/DevElkami/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/DevElkami/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/DevElkami/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/DevElkami/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-![Profile views](https://gpvc.arturio.dev/DevElkami)
+[![Elkami's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevElkami&show_icons=true&count_private=true&rank_icon=github&include_all_commits=true&hide=contribs&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Elkami's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevElkami&show_icons=true&count_private=true&rank_icon=github&include_all_commits=true&hide=contribs&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
